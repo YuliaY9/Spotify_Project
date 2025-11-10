@@ -1,0 +1,18 @@
+[
+  "track_artist_TE",
+  "playlist_name_TE",
+  "album_song_count",
+  "song_playlist_count",
+  "release_year",
+  "speechiness",
+  "instrumentalness_log",
+  "acousticness",
+  "release_day",
+  "duration_ms",
+  "energy",
+  "liveness",
+  "artist_playlist_count",
+  "track_artist_count",
+  "valence",
+  "danceability"
+]
