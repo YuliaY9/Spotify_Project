@@ -34,6 +34,8 @@ Build a regression model to predict track popularity using audio and playlist me
 **Applications:**  
 Can support playlist creation, marketing prioritization, and artist & repertoire (A&R) decisions.
 
+Model interpretation was conducted using SHAP to visualize and explain feature impacts on Spotify track popularity.
+
 # Repository Structure
 Spotify_Project/
 │
@@ -43,7 +45,9 @@ Spotify_Project/
 ├── 4_Feature_Engineering/ # Feature creation
 ├── 5_Data_Selection/ # Feature selection results
 ├── 6_Modeling/ # Model training and tuning
+├── 7_SHAP_Analysis/       # Model interpretability and feature impact visualization
 └── Documentation_Spotify.docx # Project summary
+
 
 # How to Run
 1. Clone this repository  
